@@ -1,0 +1,14 @@
+{
+  "name": "cal-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quickstart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zaire paterson",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^27.0.0"
+  }
+}
